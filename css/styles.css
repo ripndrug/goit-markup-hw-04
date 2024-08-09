@@ -486,6 +486,10 @@ p {
   margin-bottom: 16px;
 }
 
+.footer-icon-item {
+  gap: 16px;
+}
+
 .footer-social-text {
   font-weight: 500;
   font-size: 16px;
@@ -503,6 +507,7 @@ p {
 
 .footer-flex {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-logo-container {
