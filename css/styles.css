@@ -341,12 +341,15 @@ p {
   margin-bottom: 8px;
 }
 
+.team-icon-list {
+  gap: 24px;
+}
+
 .team-icon-list,
 .footer-icon-list {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 24px;
 }
 
 .team-icon-link,
