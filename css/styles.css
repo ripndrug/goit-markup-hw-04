@@ -489,10 +489,6 @@ p {
   margin-bottom: 16px;
 }
 
-.footer-icon-item {
-  gap: 16px;
-}
-
 .footer-social-text {
   font-weight: 500;
   font-size: 16px;
@@ -501,6 +497,10 @@ p {
   color: var(--white);
 
   margin-bottom: 16px;
+}
+
+.footer-icon-list {
+  gap: 16px;
 }
 
 .footer-icon-link:hover,
